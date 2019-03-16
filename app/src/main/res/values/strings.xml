@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_smaller">smaller</string>
+    <string name="text_bigger">bigger</string>
+    <string name="text_hello">Hello World!</string>
+</resources>
