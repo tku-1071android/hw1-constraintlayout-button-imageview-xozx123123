@@ -19,8 +19,10 @@ public class MainActivity extends AppCompatActivity {
     public void bigger(View V){
         hello=findViewById(R.id.textView);
         hello.setTextSize(++size);
+    }
 
-
-
+    public void smaller(View V){
+        hello=findViewById(R.id.textView);
+        hello.setTextSize(--size);
     }
 }
